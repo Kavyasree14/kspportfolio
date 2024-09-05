@@ -155,12 +155,12 @@ const Work = () => {
                 </div>
                 <div className="xl:max-w-[1000px] xl:absolute right-0 top-0">
                     <Swiper
-                        className="h-[480px]"
+                        className="h-[500px]"
                         slidesPerView={1}
                         breakpoints={{
                             640: { slidesPerView: 2 },
                         }}
-                        spaceBetween={30}
+                        spaceBetween={35}
                         modules={[Pagination]}
                         pagination={{ clickable: true }}
                     >
