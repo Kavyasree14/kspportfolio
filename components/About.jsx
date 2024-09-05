@@ -19,7 +19,7 @@ const infoData =[
     },
     {
         icon: <HomeIcon size={20} />,
-        text: '720 W Los Aneles, California, 90007',
+        text: '1421 W Adams Blvd Los Angeles, California, 90007',
     },
 ];
 

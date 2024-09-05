@@ -43,7 +43,7 @@ const Contact = () =>{
 
                               <div className='flex items-center gap-x-8'>
                                 <HomeIcon size={18} className='text-primary' />
-                                <div>720 West Los Angeles, California , 90007</div>
+                                <div>1421 W Adams Blvd Los Angeles, California , 90007</div>
                               </div>
 
 
