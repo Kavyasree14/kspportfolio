@@ -13,7 +13,7 @@ return (
 
 <h2 className='h2 max-w-xl text-center mb-8'>
 
-Prepared to turn your ideas into reality? I'm here to help
+If you find my work interesting and would like to explore potential collaboration, I would be happy to connect and discuss further.
 
 </h2>
 
