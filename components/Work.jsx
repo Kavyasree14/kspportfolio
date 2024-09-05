@@ -19,7 +19,7 @@ const projectData = [
         name: 'Stock Search Web Application',
         
         description: 'Dynamically retrieve and display stock data.',
-        link: '/',
+        link: 'https://wtassignment3-419020.wl.r.appspot.com/search/home',
         github:'/',
         },
 

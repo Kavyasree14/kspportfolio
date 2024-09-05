@@ -51,7 +51,7 @@ const qualificationData =[
             // },
             {
                 company:'Beige Corporation',
-                role: 'Sotfware Engineer Intern',
+                role: 'Software Engineer Intern',
                 years: ' Jun 2024 - Aug 2024',
             },
             {
