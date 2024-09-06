@@ -44,7 +44,7 @@ const projectData = [
         
         name: 'COVID-19 Detection Website',
         
-        description: 'Through uploading X-rays prediction takes place.',
+        description: 'Prediction using X-ray Images.',
         link: '/',
         github:'/',
         },
