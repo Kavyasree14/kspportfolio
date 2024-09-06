@@ -11,21 +11,21 @@ import Link from 'next/link';
 
 const icons =[
     {
-        path:'/',
+        path:'https://www.youtube.com/@KavyaSreePolavarapu',
         name:<RiYoutubeFill/>,
     },
-    {
-        path:'/',
-        name:<RiFacebookFill/>,
-    },
+    // {
+    //     path:'/',
+    //     name:<RiFacebookFill/>,
+    // },
     {
         path:'https://github.com/Kavyasree14',
         name:<RiGithubFill/>,
     },
-    {
-        path:'/',
-        name:<RiInstagramFill/>,
-    },
+    // {
+    //     path:'/',
+    //     name:<RiInstagramFill/>,
+    // },
     {
         path:'https://www.linkedin.com/in/kavyasree14/',
         name:<RiLinkedinFill/>,
