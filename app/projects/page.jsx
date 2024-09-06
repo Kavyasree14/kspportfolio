@@ -92,7 +92,7 @@ const Projects = () => {
         <h2 className='section-title mb-8 xl:mb-16 text-center mx-auto'>
           My Projects
         </h2>
-        <div className='text-lg xl:mt-8 grid grid-cols-1 lg:grid-cols-3 gap-4'>
+        <div className='text-lg xl:mt-8 grid grid-cols-1 lg:grid-cols-3 gap-4 mb-16'>
           {projectData.map((project, index) => (
             <ProjectCard key={index} project={project} />
           ))}
