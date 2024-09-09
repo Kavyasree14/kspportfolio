@@ -8,7 +8,7 @@ const projectData = [
     category: 'Machine Learning',
     name: 'Predicting ASD Website',
     description: 'Developed an ASD prediction model.',
-    link: '/',
+    link: 'https://wtassignment3-419020.wl.r.appspot.com/search/homes',
     github:'/',
   },
   {
