@@ -44,20 +44,20 @@ const qualificationData =[
     {
         title:'experience',
         data:[
-            // {
-            //     company:'coMakeIT Software Pvt. Ltd',
-            //     role: 'Software Development Engineer',
-            //     years: ' March 2022 - Feb 2023',
-            // },
             {
                 company:'Beige Corporation',
                 role: 'Software Engineer Intern',
                 years: ' Jun 2024 - Aug 2024',
             },
             {
+                company:'GITAM University',
+                role: 'Research Intern',
+                years: ' March 2022 - Apr 2023',
+            },
+            {
                 company:'coMakeIT Software Pvt. Ltd',
                 role: 'Machine Learning Intern',
-                years: ' Jun 2021 - Sept 2021',
+                years: ' Jun 2021 - Nov 2021',
             },
             {
                 company:'Gas Authority of India Limited (GAIL)',
